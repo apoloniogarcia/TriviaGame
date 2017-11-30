@@ -1,0 +1,15 @@
+body{
+	background-image: url("../images/triviabg.jpg");
+}
+#quizTitle{
+    color: #A93226;
+    font-size: 50px;
+    text-align: center;
+    font-family: 'Special Elite', cursive;
+}
+#quiz{
+    font-family: 'Special Elite', cursive;
+    margin: 0 auto;
+    width: 800px;
+    color: white;
+}
